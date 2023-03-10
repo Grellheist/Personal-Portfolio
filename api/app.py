@@ -15,17 +15,17 @@ def portfolio():
     return render_template("portfolio.html")
 
 
-@app.route("/about")
+@app.route("/sobre")
 def about():
     return render_template("about.html")
 
 
-@app.route("/contact")
+@app.route("/contato")
 def contact():
     return render_template("contact.html")
 
 
-@app.route("/download_cv")
+@app.route("/download")
 def download():
     return send_file("cv/curriculo.pdf", as_attachment=True)
 

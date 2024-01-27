@@ -1,7 +1,7 @@
 # This code is "temporary"
 
 This is my personal portfolio, and you can access it
-<a href="https://www.victorbuntrok.com">here</a>.
+<a href="https://www.victorbuntrok.com">here</a> (this is the new version).
 
 I will eventually change everything about it, including migrating it from
 Python/Flask/Bootstrap to NextJS with Tailwind and Typescript.
